@@ -1,4 +1,6 @@
 <?php
 //Dr. French
-echo "Hello, World!";
+echo "Hello, World!\n";
+//Jane Doe
+echo "Jane Doe\n";
 ?>
